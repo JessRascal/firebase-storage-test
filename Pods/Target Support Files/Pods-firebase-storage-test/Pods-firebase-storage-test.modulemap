@@ -1,0 +1,6 @@
+framework module Pods_firebase_storage_test {
+  umbrella header "Pods-firebase-storage-test-umbrella.h"
+
+  export *
+  module * { export * }
+}
